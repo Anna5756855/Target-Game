@@ -1,6 +1,7 @@
 # Target-Game 
 This is a simple game the purpose of which is to click on the target the fastest way possible. You can choose a timeframe and then see your score.
 
+[PLAY NOW](https://anna5756855.github.io/Target-Game/)
 * HTML
 * CSS
 * Vanilla JS
